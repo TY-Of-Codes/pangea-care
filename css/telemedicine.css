@@ -1,0 +1,18 @@
+.consult select,
+.consult p{
+    width: 25%;
+    font-size: .7rem !important;
+    
+    padding: 10px 3px;
+
+    & option{
+        text-align: left;
+    }
+
+    & span{
+        margin-left: 5%;
+        margin-right: 5%;
+        transition: 300ms ease-in-out;
+    }
+    
+}
