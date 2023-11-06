@@ -1,6 +1,6 @@
 # pangea-care
 
-This was one of my projects that I had engaged in a team for an Hackathon. We didn't finish the project due to unavailability of our Backend Developers
+This was one of my projects that I had engaged in a team for a Hackathon. The project is still under development.
 
 # Color Codes
 Primary Color - #10A97B, #fff
